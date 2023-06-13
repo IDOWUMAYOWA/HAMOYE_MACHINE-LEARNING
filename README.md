@@ -1,3 +1,3 @@
 # HAMOYE_MACHINE-LEARNING
-##### This is a Tag along code for the Quiz on Machine Learning Prediction
-> This Quiz has 20 questions which include the use of linear, ridge and lasso regression with different performance metrics
+##### This is a tag along code for the Machine Learning Prediction Quiz.
+> This quiz contains 20 questions about the usage of linear, ridge, and lasso regression with various performance indicators.
